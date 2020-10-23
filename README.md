@@ -1,4 +1,4 @@
-# Titanic Data Set
+# Titanic Dataset
 
 The data has been split into two groups:
 
